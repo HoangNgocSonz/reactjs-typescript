@@ -1,6 +1,6 @@
 import React from 'react';
 import axios  from 'axios';
-import Infor from '../component/Infor';
+import Infor from '../component/DetaiInfor';
 import { BrowserRouter as Router, Route, Link, NavLink } from "react-router-dom";
 import "./Home.css"
 

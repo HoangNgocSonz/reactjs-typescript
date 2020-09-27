@@ -2,7 +2,7 @@ import React from 'react';
 import axios  from 'axios';
 import {Link} from 'react-router-dom';
 import initComic, {comic,fff,chapter,chapterN} from '../initstate';
-import "./Infor.css"
+import "./DetaiInfor.css"
 
   interface MainState {
     Chapter:chapter
