@@ -1,0 +1,32 @@
+.left{
+    background-color: aqua;
+    width: 200px;
+    height: 300px;
+    float: left;
+}
+.avatar{
+    width:100%;
+    height: 300px;
+}
+.right{
+    margin-left: 50px;
+    height: 300px;
+    float: left;
+    width: 500px;
+    
+}
+.description{
+    height: 200px;
+    overflow: hidden;
+}
+.chapter{
+    display: block;
+    margin-top:300px
+}
+.img{
+    display:block;
+    margin: auto;
+    width: 40%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
